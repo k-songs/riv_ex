@@ -1,6 +1,6 @@
 import React from "react";
-import RiveButtonExample from "../../components/ui/RiveButtonExample";
+import SimpleRiveTest from "../../components/ui/SimpleRiveTest";
 
 export default function App() {
-  return <RiveButtonExample />;
+  return <SimpleRiveTest />;
 }
